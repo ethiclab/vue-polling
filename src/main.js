@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import VSocket from 'vue-socket.io';
 import '@progress/kendo-ui';
-import '@progress/kendo-theme-default/dist/';
+import '@progress/kendo-theme-default';
 
 import {
   ChartInstaller,
